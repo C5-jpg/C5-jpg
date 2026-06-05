@@ -78,19 +78,6 @@
 
 **技术栈：** `MATLAB` `Python` `LaTeX`
 
----
-
-## 📊 GitHub 动态
-
-<div align="center">
-
-![C5-jpg's GitHub Stats](https://github-readme-stats.vercel.app/api?username=C5-jpg&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=C5-jpg&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=C5-jpg&layout=compact&theme=radical&hide_border=true)
-
-</div>
 
 ---
 
@@ -100,8 +87,6 @@
 
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:your_email@sjtu.edu.cn)
 [![Blog](https://img.shields.io/badge/-Blog-000000?logo=readme&logoColor=white&style=flat-square)](your_link)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](your_link)
-
 </div>
 
 ---
