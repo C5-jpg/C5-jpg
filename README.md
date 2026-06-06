@@ -2,10 +2,6 @@
 
 # 你好，我是 He Ke 👋
 
-**`探索者 | 构建者 | 研究者`**
-
-上海交通大学 (SJTU) — 计算社会科学
-
 *"预测未来的最好方式就是去创造它。" — Alan Kay*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=C5-jpg&color=blueviolet&style=flat-square&label=Profile+Views)
