@@ -81,7 +81,6 @@
 <div align="center">
 
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:your_email@sjtu.edu.cn)
-[![Blog](https://img.shields.io/badge/-Blog-000000?logo=readme&logoColor=white&style=flat-square)](your_link)
 </div>
 
 ---
