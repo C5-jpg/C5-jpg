@@ -1,92 +1,26 @@
-<div align="center">
+# 你好，我是 He Ke
 
-# 你好，我是 He Ke 👋
+上海交通大学本科生，关注**计算社会科学、多智能体合作与图学习**。
 
-*"预测未来的最好方式就是去创造它。" — Alan Kay*
+我对网络结构如何影响群体合作感兴趣，希望通过强化学习、仿真与数据分析研究这些机制。
 
-![Profile Views](https://komarev.com/ghpvc/?username=C5-jpg&color=blueviolet&style=flat-square&label=Profile+Views)
+*Undergraduate at Shanghai Jiao Tong University. My interests include computational social science, multi-agent cooperation, and graph learning.*
 
-</div>
+## 研究与方法实践
 
----
+| 项目 | 问题与工作范围 | 代码与实验说明 |
+|---|---|---|
+| **合作网络与社会规划者** | 独立实现 McKee 等人合作研究中的模拟智能体框架，探索 GraphNet 网络干预与 A2C / V-trace 训练；另有单种子机制实验记录。 | [Scaffolding Cooperation](https://github.com/C5-jpg/scaffolding-cooperation) · [GraphNet 机制实验](https://github.com/C5-jpg/mckee2023-cooperation-graphnet) |
+| **BabyLLM** | 中文小规模语言模型课程/团队项目，围绕有限语料、训练目标和评测开展多版本实验。README 区分已有结果与跨版本比较的限制。 | [训练代码与评估记录](https://github.com/C5-jpg/babyLLM-2026-04-19) |
+| **Atari DQN** | Pong 强化学习实验，包含 DQN 训练、已有模型微调和策略对抗；保留成功与失败评估记录。 | [实现、结果与复现入口](https://github.com/C5-jpg/Atari-DQN-Reinforcement-Learning-2025-09-01) |
 
-## 🧭 关于我
+合作研究仓库是对已发表方法的独立实现与实验探索，不是原论文团队的官方代码。各项目的 README 说明实现范围、结果来源和复现条件。
 
-我是**上海交通大学**的本科生，热衷于探索**计算机科学**与**社会科学**的交叉领域。我的研究兴趣包括：
+## 其他建模实践
 
-- 🧠 **多智能体强化学习 (MARL)** — 涌现合作与社会动态
-- 🕸️ **图神经网络 (GNN)** — 关系数据与网络建模
-- 📊 **计算社会科学** — 人类行为的定量研究方法
+- [共享单车站点布局与容量优化](https://github.com/C5-jpg/Bike-Sharing-Station-Optimization-2025-08-10)：需求预测、选址与容量配置建模。
+- [PM2.5 统计分析](https://github.com/C5-jpg/AirQuality-Statistical-Analysis-2026-05-26)：空气质量数据的统计建模与可视化。
 
-我坚信**在实践中学习** — 下面的每个项目都始于一个我无法停止思考的问题。
+## 合作交流
 
----
-
-## 🛠️ 技术栈
-
-### AI / 数据科学
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat-square)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat-square)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat-square)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=flat-square)
-
-### 系统与基础设施
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
-![CUDA](https://img.shields.io/badge/-CUDA-76B900?logo=nvidia&logoColor=white&style=flat-square)
-
-### 协作与文档
-![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white&style=flat-square)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white&style=flat-square)
-![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white&style=flat-square)
-
----
-
-## 🚀 项目探索
-
-### 🔬 GraphNet — 多智能体社会仿真
-> 一个基于 MARL 的框架，探索网络化智能体群体中的**涌现社会行为**。基于 PyTorch 和 NetworkX 构建，模拟图结构环境中的合作、竞争与信息扩散。
-
-**技术栈：** `Python` `PyTorch` `NetworkX` `Gymnasium`
-
----
-
-### 🤖 LeRobot — 基础模型驱动的机器人学习
-> 参与 [LeRobot](https://github.com/huggingface/lerobot) 开源项目 — 由 Hugging Face 推出的机器人操作策略训练框架，支持模仿学习与强化学习。
-
-**技术栈：** `Python` `PyTorch` `Isaac Sim` `ROS2`
-
----
-
-### 📖 ChineseBabyLM — 语言的最初脚步
-> 受 BabyLM Challenge 启发的**中文语言习得**研究。在儿童导向语音数据上训练小规模语言模型，探究语言结构如何从有限输入中涌现。
-
-**技术栈：** `Python` `Transformers` `Tokenizers`
-
----
-
-### 🏆 MCM/ICM — 数学建模
-> **美国大学生数学建模竞赛 (MCM)** Meritorious Winner。运用优化、统计建模与仿真技术，解决现实世界的复杂系统问题。
-
-**技术栈：** `MATLAB` `Python` `LaTeX`
-
-
----
-
-## 📫 联系方式
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:your_email@sjtu.edu.cn)
-</div>
-
----
-
-<div align="center">
-
-*感谢访问！如果你想在研究或开源项目上合作，欢迎联系我。*
-
-</div>
+欢迎围绕多智能体合作、图学习和计算社会科学方法交流。项目问题、复现反馈和合作想法可以通过相关仓库的 Issues 联系。
